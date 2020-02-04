@@ -2,7 +2,7 @@
 
 The New School for Social Research | Parsons School of Design | Art, Media, and Technology
 
-![Parsons_Logo1_Large_RGB](Parsons_Logo3_Large_RGB.jpg)
+![Parsons_Logo1_Large_RGB](Parsons_Logo1_Large_RGB.jpg)
 
 ~~~~
 Jesse Seegers • seegersj@newschool.edu
@@ -46,6 +46,7 @@ In this project, we will be reviving a literary work, whose copyright is now rec
     - **You *MUST* add an Editor's Note:** the circumstances you found the work in (original, already digitized/OCR'd?) what you've done to the work, how you've accomplished this and why (reasons could vary from the practical to the conceptual/poetic)
 - Schedule:
     - Week 3: Announce & Introduce Project
-    - Week 5: 1st Draft Group Pin-Up
+    - Week 4: Present chosen work and proposed content augmentation
+    - Week 6: 1st Draft Group Pin-Up
     - Week 7: Draft 2 peer-to-peer review
     - Week 8: Final file/link due (midterm)

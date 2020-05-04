@@ -18,7 +18,7 @@ GPUB: 5002 • CRN: 8010 • Credits: 3
 
 **Scenario:** The year is 2025, and what we used to call the internet was wiped out by the great sunspot storm of 2023.
 
-Your assignment is to find a born-digital web-native publication and bring it into a physical format as a means of preserving it for after the (imaginary?) media apocalypse. In the process you should have some idea about the nature of publishing as it relates to 
+Your assignment is to find a born-digital web-native publication and bring it into a physical format as a means of preserving it for after the (imaginary?) media apocalypse. In the process you should formulate an idea or perspective about how the translation of your content into a new form addresses an aspect of publishing we've discussed (form, content, context, audience, distribution, filtering, framing, amplifying, etc.).
 
 *Due to our remote learning situation* we will be using print-on-demand services to print and bind our publications, to the extent possible.
 
